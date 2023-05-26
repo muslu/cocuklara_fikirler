@@ -24,4 +24,5 @@ def metin_dosyasi_analizi():
     print(f"En Sık Kullanılan Kelime: {en_sık_kelime}")
 
 
-metin
+metin_dosyasi_analizi()
+
